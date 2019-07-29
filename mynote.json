@@ -1,0 +1,12 @@
+{
+	"notegroup": [
+		{
+			"notetitle": "Note Title",
+			"notetext": "Some quick example text to build on the card title and make up the bulk of the card's content."
+		},
+		{
+			"notetitle": "Second Tittle",
+			"notetext": "Some quick example text to build on the card title and make up the bulk of the card's content."
+		}
+	]
+}
