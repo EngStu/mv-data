@@ -1,8 +1,8 @@
 {
 	"notegroup": [
 		{
-			"notetitle": "Second Tittle edited",
-			"notetext": "Some quick example text to build on the card title and make up the bulk of the card's content."
+			"notetitle": "First Note",
+			"notetext": "This new way of creating strings gives you more flexibility to create robust strings."
 		}
 	]
 }
