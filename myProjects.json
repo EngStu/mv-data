@@ -4,6 +4,11 @@
 			"projectTitle": "Employee Manager",
 			"projectDescription": "Learning Vue js with this project.",
 			"projectUrl": "https://engstu.github.io/employee-manager/"
+		},
+		{
+			"projectTitle": "My Note",
+			"projectDescription": "Learning Mava with this project.",
+			"projectUrl": "https://engstu.github.io/mynote/"
 		}
 	]
 }
