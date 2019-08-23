@@ -1,6 +1,11 @@
 {
 	"project": [
 		{
+			"projectTitle": "Learning Notes",
+			"projectDescription": "My Learning Journey Notes.",
+			"projectUrl": "https://engstu.github.io/learningnotes/"
+		},
+		{
 			"projectTitle": "My Note",
 			"projectDescription": "Learning Mava with this project.",
 			"projectUrl": "https://engstu.github.io/mynote/"
